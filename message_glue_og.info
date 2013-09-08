@@ -1,0 +1,4 @@
+name = Message glue OG
+description = Generate messages on Organic Groups content
+core = 7.x
+
